@@ -32,12 +32,12 @@ Notes:
 
 
 
-• VAT is payable at 21%.
-• User input is to be checked to ensure that it is correct (e.g. ensure that the number of dependents is between 0 and 6 inclusive, make sure that choices e.g. inpatient care or not, are valid etc.)
-• The border for the policy quotation is for illustration only and need not be drawn.
-• Basic cost is €426 or €426 + €80 as outlined in the first paragraph of the narrative.
-• For inpatient cost, output “Yes” if the person is buying inpatient insurance, output “No” if the person is not buying inpatient insurance.
-• For room type, output “NA” if the person is not buying inpatient insurance (with a cost of €0), otherwise output “Private” or “Semi-Private” as appropriate and with the relevant cost.
-• For additional extras, output “None” if the person is not paying for additional insurance extras, otherwise output a list of the additional extras that the person buying insurance for.
-• VAT is payable at 21%.
-• All monetary values are to be suitably formatted.
+• VAT is payable at 21%.<br>
+• User input is to be checked to ensure that it is correct (e.g. ensure that the number of dependents is between 0 and 6 inclusive, make sure that choices e.g. inpatient care or not, are valid etc.)<br>
+• The border for the policy quotation is for illustration only and need not be drawn.<br>
+• Basic cost is €426 or €426 + €80 as outlined in the first paragraph of the narrative.<br>
+• For inpatient cost, output “Yes” if the person is buying inpatient insurance, output “No” if the person is not buying inpatient insurance.<br>
+• For room type, output “NA” if the person is not buying inpatient insurance (with a cost of €0), otherwise output “Private” or “Semi-Private” as appropriate and with the relevant cost.<br>
+• For additional extras, output “None” if the person is not paying for additional insurance extras, otherwise output a list of the additional extras that the person buying insurance for.<br>
+• VAT is payable at 21%.<br>
+• All monetary values are to be suitably formatted.<br>
